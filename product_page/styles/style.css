@@ -1,0 +1,27 @@
+@import "components/navbar.css";
+
+body {
+  background-color: #b0cac7;
+  font-family: 'Abel', sans-serif;
+  letter-spacing: 3px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  color: darkgreen;
+  text-decoration: underline overline;
+  padding: 0 16px;
+  /*margin-top: 16px;
+  margin-bottom: 16px;*/
+  margin: 16px 0;
+}
+
+p {
+  text-align: justify;
+  line-height: 2;
+}
+
+ul {
+  list-style-type: none;
+}

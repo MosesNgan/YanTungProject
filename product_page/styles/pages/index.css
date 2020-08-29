@@ -1,0 +1,26 @@
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+  margin: 0 auto;
+}
+
+#sign-in-form {
+  background-color: white;
+}
+
+.card {
+  width: 18rem;
+  text-align: center;
+  margin: 8px;
+}
+
+/*@media(min-width: 576px) {
+  #sign-in-form-container {
+    width: 50%;
+    position: absolute;
+    top: 20%;
+    right: 0;
+  }
+}*/
